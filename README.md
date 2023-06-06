@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**overcrown/overcrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Hello, im Gabriel.
+#### The next BackEnd Junior Developer
+![The next BackEnd Junior Developer](https://media.licdn.com/dms/image/D4D16AQFpjukeY7kPBQ/profile-displaybackgroundimage-shrink_350_1400/0/1677639102777?e=1691625600&v=beta&t=U0FqMJ6DCF5kKNoJmcJtkTTToA2cq_ukEUgdEOC9GkM)
 
-Here are some ideas to get you started:
+I am Gabriel, currently im intern in Didi/99. I love technol and i love to learn new skills, everything that will improve my knowledge base im in.  I try to be the most complete professional. Problems are made to be solved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: PYTHON / DJANGO / FLASK / HTML / CSS / JAVASCRIPT
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
