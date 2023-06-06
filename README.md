@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, Hello, im Gabriel.
 #### The next BackEnd Junior Developer
 ![The next BackEnd Junior Developer](https://media.licdn.com/dms/image/D4D16AQFpjukeY7kPBQ/profile-displaybackgroundimage-shrink_350_1400/0/1677639102777?e=1691625600&v=beta&t=U0FqMJ6DCF5kKNoJmcJtkTTToA2cq_ukEUgdEOC9GkM)
