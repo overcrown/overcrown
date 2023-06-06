@@ -1,7 +1,7 @@
 ### Hi there 👋, Hello, im Gabriel.
 #### The next BackEnd Junior Developer
 
-https://media.licdn.com/dms/image/C4D03AQHkBuZJDt-BNw/profile-displayphoto-shrink_200_200/0/1642607338907?e=1691625600&v=beta&t=9ICpT6Bgj0HRR-oesfn1tQAU8JbYVwKMNOoIylbIcv8
+<img src="https://media.licdn.com/dms/image/C4D03AQHkBuZJDt-BNw/profile-displayphoto-shrink_200_200/0/1642607338907?e=1691625600&v=beta&t=9ICpT6Bgj0HRR-oesfn1tQAU8JbYVwKMNOoIylbIcv8"/>
 
 ![The next BackEnd Junior Developer](https://media.licdn.com/dms/image/D4D16AQFpjukeY7kPBQ/profile-displaybackgroundimage-shrink_350_1400/0/1677639102777?e=1691625600&v=beta&t=U0FqMJ6DCF5kKNoJmcJtkTTToA2cq_ukEUgdEOC9GkM)
 
