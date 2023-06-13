@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Gabriel.
 #### The next BackEnd Junior Developer 💻
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/740671803035619328/1686692941/600x200)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FyiEZgiWcAEHQwX?format=jpg&name=small)
 
 
 I am Gabriel, currently im intern in Didi/99. I love technol and i love to learn new skills, everything that will improve my knowledge base im in.  I try to be the most complete professional. Problems are made to be solved.
