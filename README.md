@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Gabriel.
 #### The next BackEnd Junior Developer 💻
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/740671803035619328/1686692941/1000x500)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/740671803035619328/1686692941/600x200)
 
 
 I am Gabriel, currently im intern in Didi/99. I love technol and i love to learn new skills, everything that will improve my knowledge base im in.  I try to be the most complete professional. Problems are made to be solved.
@@ -23,6 +23,8 @@ I am Gabriel, currently im intern in Didi/99. I love technol and i love to learn
 - 📫 How to reach me: Linkedln/Email 
 - 😄 Pronouns: He/His 
 
+## Social Media
 
-## https://drive.google.com/file/d/1tjR40tIfa_qkmtWufKz5UjR21Pg--9rr/view?usp=drive_link
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/overcrown)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-brito-268470132?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F2LhNp7dRVykpcyPgNzljg%3D%3D/)  
+
 
