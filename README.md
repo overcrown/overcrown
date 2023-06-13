@@ -4,7 +4,8 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FyiEZgiWcAEHQwX?format=jpg&name=small)
 
 
-I am Gabriel, currently im intern in Didi/99. I love technol and i love to learn new skills, everything that will improve my knowledge base im in.  I try to be the most complete professional. Problems are made to be solved.
+I am Gabriel, currently im intern in Didi/99. I love technol and i love to learn new skills, everything that will improve my knowledge base im in. 
+I try to be the most complete profession and problems are made to be solved.
 
 ## Skills and Experience:
 * PYTHON
