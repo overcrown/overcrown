@@ -4,20 +4,22 @@
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FyiEZgiWcAEHQwX?format=jpg&name=small)
 
+## Technical features about me:
 
-I am Gabriel, currently im intern in Didi/99. I love technology and i love to learn new skills, 
+I love technology and i love to learn new skills, 
 everything that will improve my knowledge base im in. I try to be the most complete profession 
 and problems are made to be solved.
 
+
 ## Skills and Experience:
 
-* PYTHON / DJANGO / FLASK / HTML&CSS  / SQL / JAVA / JAVASCRIPT
+* PYTHON / DJANGO / FLASK / HTML&CSS  / SQL / JAVASCRIPT / JAVA 
 
-## About Me 
 
-- 🔭 I’m currently working on 99 Tecnonologia LTDA 
-- 🌱 I’m currently learning Cloud - AWS 
-- 🤔 I’m looking for help with Flask Route  
+## Details about Me :
+
+- 🔭 I’m currently working on 99 Tecnonologia LTDA as intern
+- 🌱 I’m currently learning Cloud - AWS   
 - 📫 How to reach me: Linkedln/Email 
 - 😄 Pronouns: He/His 
 
