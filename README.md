@@ -10,9 +10,9 @@ and problems are made to be solved.
 
 ## Skills and Experience:
 
-* PYTHON / DJANGO / FLASK / HTML&CSS / JAVA / SQL / JAVASCRIPT
+* PYTHON / DJANGO / FLASK / HTML&CSS  / SQL / JAVA / JAVASCRIPT
 
-## About me 
+## About Me 
 
 - 🔭 I’m currently working on 99 Tecnonologia LTDA 
 - 🌱 I’m currently learning Cloud - AWS 
