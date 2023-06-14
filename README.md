@@ -1,5 +1,6 @@
-### Hello there 👋 I'm Gabriel.
-#### The next BackEnd Junior Developer 💻
+## Welcome, i'm Gabriel. 
+
+### The next BackEnd Junior Developer 💻
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FyiEZgiWcAEHQwX?format=jpg&name=small)
 
