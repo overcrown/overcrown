@@ -7,7 +7,7 @@
 ## Technical features about me:
 
 I love technology and i love to learn new skills, 
-everything that will improve my knowledge base im in. I try to be the most complete profession 
+everything that will improve my knowledge base im in. I try to be the most complete professional.
 and problems are made to be solved.
 
 
