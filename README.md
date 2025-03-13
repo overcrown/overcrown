@@ -2,7 +2,7 @@
 
 ## BackEnd Junior Developer 💻
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FyiEZgiWcAEHQwX?format=jpg&name=small)
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ## Technical features about me:
 
