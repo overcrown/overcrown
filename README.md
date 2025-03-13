@@ -2,7 +2,7 @@
 
 ## BackEnd Junior Developer 💻
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/Gl4ulSfXQAAqiaZ?format=jpg&name=medium)
 
 ## Technical features about me:
 
@@ -18,8 +18,8 @@ and problems are made to be solved.
 
 ## Details about Me :
 
-- 🔭 I’m currently working on 99 Tecnonologia LTDA as intern
-- 🌱 I’m currently learning Cloud - AWS   
+- 🔭 I’m currently working on Grupo GPS as Junior Backend Developer
+- 🌱 I’m currently learning Cloud - AWS, ReactJS and Docker   
 - 📫 How to reach me: Linkedln/Email 
 - 😄 Pronouns: He/His 
 
