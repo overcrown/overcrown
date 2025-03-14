@@ -12,7 +12,8 @@ I'm passionate about technology and always eager to learn new skills that expand
 
 ## Social Media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/overcrown)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabriel-brito-268470132/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='x' height='40'>](https://x.com/OvercrownCoding)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/overcrown)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabriel-brito-268470132/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='x' height='40'>](https://x.com/OvercrownCoding)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:gabrielbms91@gmail.com?subject=Hello&body=Write%20your%20message%20here
+)
 
 
 ## Skills and Experience:
@@ -115,8 +116,11 @@ I'm passionate about technology and always eager to learn new skills that expand
 - 🔭 I’m currently working on Grupo GPS as Junior Backend Developer
 - 🌱 I’m currently learning Cloud - AWS, ReactJS and Docker   
 - 📫 How to reach me: Linkedln or Email
-- Email: **gabrielbms91@gmail.com**
-- 😄 Pronouns: He/His 
+- 😄 Pronouns: He/His
+
+
+### Email
+- gabrielbms91@gmail.com
 
 
 ## Metrics
