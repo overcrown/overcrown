@@ -114,7 +114,8 @@ I'm passionate about technology and always eager to learn new skills that expand
 
 - 🔭 I’m currently working on Grupo GPS as Junior Backend Developer
 - 🌱 I’m currently learning Cloud - AWS, ReactJS and Docker   
-- 📫 How to reach me: Linkedln/Email (above)
+- 📫 How to reach me: Linkedln or Email
+- Email: **gabrielbms91@gmail.com**
 - 😄 Pronouns: He/His 
 
 
