@@ -123,7 +123,7 @@ I'm passionate about technology and always eager to learn new skills that expand
 ## Details about Me :
 
 - 🔭 I’m currently working on Grupo GPS as Junior Backend Developer
-- 🌱 I’m currently learning Cloud - AWS, ReactJS and Docker   
+- 🌱 I’m currently learning ReactJS 
 - 📫 How to reach me: Linkedln or Email
 - 😄 Pronouns: He/His
 
